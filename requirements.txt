@@ -1,0 +1,4 @@
+twilio
+google-generativeai
+schedule
+python-dotenv
