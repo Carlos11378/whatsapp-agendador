@@ -1,4 +1,5 @@
-twilio
-google-generativeai
-schedule
-python-dotenv
+twilio==9.0.0
+google-generativeai==0.8.1
+schedule==1.2.1
+python-dotenv==1.0.1
+
